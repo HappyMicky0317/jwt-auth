@@ -14,8 +14,6 @@ namespace Tymon\JWTAuth;
 use Tymon\JWTAuth\Contracts\Providers\Storage;
 use Tymon\JWTAuth\Support\Utils;
 
-
-//
 class Blacklist
 {
     /**
