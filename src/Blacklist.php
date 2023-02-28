@@ -15,7 +15,7 @@ use Tymon\JWTAuth\Contracts\Providers\Storage;
 use Tymon\JWTAuth\Support\Utils;
 
 
-//fgfdgdfgdfgdfgdfgfgdfgdf
+//fgfdgdfgdfgdfgdfgfgdfgd
 class Blacklist
 {
     /**
